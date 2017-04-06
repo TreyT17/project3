@@ -1,0 +1,60 @@
+h1{
+	text-align: center;
+	font-family: Consolas, serif;
+	color: #ffac14;
+	
+}
+
+#header-text {
+	text-align: center;
+	top: 21%;
+	width: 90%;
+	margin: 0 auto;
+	position: relative;
+}
+
+p {
+	font-size: 120%;
+	color: #1b41a6;
+	font-family: Monaco, serif;
+}
+
+h{
+ 	font-size: 200%;
+}
+
+ul {
+	width: 200px;
+	margin: 0 auto;
+	text-align: center;
+	color: #11329a
+}
+
+h2 {
+	text-align: center;
+	font-family: Arial, serif;
+	color: #123456;
+	font-size: 90%;
+}
+
+.header {
+	background-position: center center;
+	background-size: cover;
+	
+}
+
+body{
+	background-color: grey;
+}
+
+h3{
+	font-size: 150%;
+	color: #5e42d4;
+}
+
+h4{
+	text-align: center;
+	font-family: Consolas, serif;
+	color: #ffac14;
+	font-size: 400%;
+}
